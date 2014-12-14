@@ -1,0 +1,17 @@
+{
+    "contents" : "dataw<-cbind(data,weekday=weekdays(data$date))\n\ndataw<-cbind(data,weekday=weekdays(data$date))\n\ndataw[order(which(dataw$interval==0)),]\n\n\norder(which(dataw$interval==0))\n\n\n\nsamdataw<-dataw[which(dataw$interval==0),c(3,1,5)]\nsamdataw<-samdataw[order(samdataw$date),]\nrow.names(samdataw) <- NULL \nhead(samdataw[order(samdataw$date),],n=10)\n",
+    "created" : 1418566207668.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2189653759",
+    "id" : "6B7770F3",
+    "lastKnownWriteTime" : 7598543875328668517,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

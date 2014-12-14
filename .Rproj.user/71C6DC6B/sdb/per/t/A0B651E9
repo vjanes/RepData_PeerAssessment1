@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1418580766034.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A0B651E9",
+    "lastKnownWriteTime" : 27303570963497028,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "stp_interv_we",
+        "contentUrl" : "content?title=stp_interv_we&file=a616717ce0594edab72eb60151f892f7.htm",
+        "displayedObservations" : "576",
+        "displayedVariables" : 3,
+        "totalObservations" : "576",
+        "variables" : "3"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

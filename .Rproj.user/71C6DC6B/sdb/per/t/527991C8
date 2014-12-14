@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1418580574737.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "527991C8",
+    "lastKnownWriteTime" : 7954884659444544371,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "dataw",
+        "contentUrl" : "content?title=dataw&file=eb45ebc99db3483885aab0c8dfc9272c.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 5,
+        "totalObservations" : "17568",
+        "variables" : "5"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
