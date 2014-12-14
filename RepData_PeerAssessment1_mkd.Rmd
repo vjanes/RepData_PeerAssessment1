@@ -2,7 +2,7 @@
 title: "Reproducible research peer assignment 1"
 author: "vjanes"
 date: "Sunday, December 14, 2014"
-output: html_document
+output: pdf_document
 ---
 
 Peer assignment one for the Coursera Data Science specialty's *Reproducible research* course.
