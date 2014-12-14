@@ -151,6 +151,6 @@ head(samdataw[order(samdataw$date),],n=10)
 stp_interv_we<-aggregate(dataw$steps, by=list(dataw$interval,dataw$is_we), "mean",na.rm=TRUE, na.action=NULL)
 colnames(stp_interv_we)<-c("interval","is_we","steps")
 
-xyplot(steps~interval|is_we, data=stp_interv_we, type="l")
+xyplot(steps~interval|is_we, data=stp_interv_we, type="l",layout=c(1,2))
 ```
 
